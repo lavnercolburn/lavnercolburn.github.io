@@ -1,4 +1,4 @@
-h1,h2:hover{
+h1:hover,h2:hover{
  color: indigo;
 }
 h1,h2{
