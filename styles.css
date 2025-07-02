@@ -4,3 +4,16 @@ h1:hover,h2:hover{
 h1,h2{
 color:black;
 }
+h1{
+    font-family:anton
+}
+.header{
+     border:2px solid blanchedalmond;
+     display:inline-block ;
+     font-family:anton;
+}
+body{
+    background:linear-gradient(gray,black) ;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
